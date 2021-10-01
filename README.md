@@ -46,6 +46,7 @@ ___
 |:--|:--|:--|:--|:--|
 |Entangle|||||
 |Speak With Animals|||||
+|Beast Sense|||||
 ___
 ## Special Abilities
 ### Favored Foe 3x a day
