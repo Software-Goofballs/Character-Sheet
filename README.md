@@ -23,30 +23,30 @@ ___
 |--|--|
 |+6|15|
 ### Cantrips, Unlimited
-|Name|Casting Time|To Hit|Damage|Extra Effects|
-|:--|:--|:--|:--|:--|
-|Druidcraft|||||
-|Mage Hand|||||
-|Resistance|||||
-|Guidance|||||
+|Name|Casting Time|Damage|Extra Effects|
+|:--|:--|:--|:--|
+|Druidcraft||||
+|Mage Hand||||
+|Resistance||||
+|Guidance||||
 ### 1st level, 4 a day
-|Name|Casting Time|To Hit|Damage|Extra Effects|
-|:--|:--|:--|:--|:--|
-|Cure Wounds|||||
-|Detect Magic|||||
-|Ensnaring Strike|||||
-|Faerie Fire|||||
+|Name|Casting Time|Damage|Extra Effects|
+|:--|:--|:--|:--|
+|Cure Wounds||||
+|Detect Magic||||
+|Ensnaring Strike||||
+|Faerie Fire||||
 ### 2nd level, 2 a day
-|Name|Casting Time|To Hit|Damage|Extra Effects|
-|:--|:--|:--|:--|:--|
-|Web|||||
-|Pass without Trace|||||
+|Name|Casting Time|Damage|Extra Effects|
+|:--|:--|:--|:--|
+|Web||||
+|Pass without Trace||||
 ## Once a day
-|Name|Casting Time|To Hit|Damage|Extra Effects|
-|:--|:--|:--|:--|:--|
-|Entangle|||||
-|Speak With Animals|||||
-|Beast Sense|||||
+|Name|Casting Time|Damage|Extra Effects|
+|:--|:--|:--|:--|
+|Entangle||||
+|Speak With Animals||||
+|Beast Sense||||
 ___
 ## Special Abilities
 ### Favored Foe 3x a day
