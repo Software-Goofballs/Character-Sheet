@@ -1,7 +1,7 @@
 # Zara-Skramstad
 ___
 - **Armor Class** 16/18
-- **Hit Points** 90
+- **Hit Points** 60
 - **Speed** 25 ft. (5 squares)
 - **Initiative** +3
 ___
