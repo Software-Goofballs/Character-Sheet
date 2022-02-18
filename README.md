@@ -20,22 +20,45 @@ ___
 |To Hit|DC|
 |--|--|
 |+7|15|
-Prepare 8 additional spells
+Prepare 9 additional spells
 ### Cantrips, Unlimited
 [Guidance](https://5e.tools/spells.html#guidance_phb)
+
 [Sacred Flame](https://5e.tools/spells.html#sacred%20flame_phb)
+
 [Toll the Dead](https://5e.tools/spells.html#toll%20the%20dead_xge)
+
 [Word of Radiance](https://5e.tools/spells.html#word%20of%20radiance_xge)
 ### 1st level, 4 a day
-[Heroism](https://5e.tools/spells.html#heroism_phb)
-[Sanctuary](https://5e.tools/spells.html#sanctuary_phb)
+[*Command*](https://5e.tools/spells.html#command_phb)
+
+[*Identify*](https://5e.tools/spells.html#identify_phb)
+
+[Bless](https://5e.tools/spells.html#bless_phb)
+
+[Bane](https://5e.tools/spells.html#bane_phb)
+
+[Inflict Wounds](https://5e.tools/spells.html#inflict%20wounds_phb)
 ### 2nd level, 3 a day
-[Aid](https://5e.tools/spells.html#aid_phb)
-[Warding Bond](https://5e.tools/spells.html#warding%20bond_phb)
+[*Augury*](https://5e.tools/spells.html#augury_phb)
+
+[*Suggestion*](https://5e.tools/spells.html#suggestion_phb)
+
+[Spiritual Weapon](https://5e.tools/spells.html#spiritual%20weapon_phb)
+
+[Hold Person](https://5e.tools/spells.html#hold%20person_phb)
+
+[Borrowed Knowledge](https://5e.tools/spells.html#borrowed%20knowledge_scc)
+
+[Lesser Restoration](https://5e.tools/spells.html#lesser%20restoration_phb)
 ### 3rd level, 2 a day
-[Beacon of Hope](https://5e.tools/spells.html#beacon%20of%20hope_phb)
-[Sending](https://5e.tools/spells.html#sending_phb)
-## Once a day
+[*Nondetection*](https://5e.tools/spells.html#nondetection_phb)
+
+[*Speak with Dead*](https://5e.tools/spells.html#speak%20with%20dead_phb)
+
+[Spirit Shroud](https://5e.tools/spells.html#spirit%20shroud_tce)
+
+[Dispel Magic](https://5e.tools/spells.html#dispel%20magic_phb)
 ___
 ## Special Abilities
 ### Expert Duplication
@@ -63,8 +86,8 @@ Starting at 5th level, when an undead fails its saving throw against your Turn U
 #### Harness Divine Power 
 At 2nd level, you can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
 
-#### Balm of Peace
-Starting at 2nd level, you can use your Channel Divinity to make your very presence a soothing balm. As an action, you can move up to your speed, without provoking opportunity attacks, and when you move within 5 feet of any other creature during this action, you can restore a number of hit points to that creature equal to 2d6 + your Wisdom modifier (minimum of 1 hit point). A creature can receive this healing only once whenever you take this action.
+#### Knowledge of the Ages
+Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you have proficiency with the chosen skill or tool.
 ___
 ## Skills
 |Stat|Skill|Trained|
@@ -73,11 +96,11 @@ ___
 |Dexterity|Acrobatics||
 |Dexterity|Sleight of Hand||
 |Dexterity|Stealth||
-|Intelligence|Arcana (Magic)|Yes|
-|Intelligence|History||
-|Intelligence|Investigation||
+|Intelligence|Arcana (Magic)|Expert|
+|Intelligence|History|Yes|
+|Intelligence|Investigation|Yes|
 |Intelligence|Nature||
-|Intelligence|Religion|Yes|
+|Intelligence|Religion|Expert|
 |Wisdom|Animal Handling||
 |Wisdom|Insight|Yes|
 |Wisdom|Medicine|Yes|
