@@ -48,7 +48,7 @@ Prepare 9 additional spells
 
 [Hold Person](https://5e.tools/spells.html#hold%20person_phb)
 
-[Borrowed Knowledge](https://5e.tools/spells.html#borrowed%20knowledge_scc)
+[Calm Emotions](https://5e.tools/spells.html#calm%20emotions_phb)
 
 [Lesser Restoration](https://5e.tools/spells.html#lesser%20restoration_phb)
 ### 3rd level, 2 a day
