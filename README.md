@@ -1,15 +1,15 @@
 # Saul, the Kenku Cleric
 ___
 - **Armor Class** 19
-- **Hit Points** 40
+- **Hit Points** 50
 - **Speed** 30 ft. (6 squares)
-- **Initiative** +3
+- **Initiative** +2
 ___
 ## Stats
 |STAT|Strength|Dexterity|Constitution|Intelligence|Wisdom|Charisma|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-||10|16|10|14|18|8|
-|Saving Throw|+0|+3|+0|+2|+7|+2|
+||8|14|14|14|18|8|
+|Saving Throw|-1|+2|+2|+2|+7|+2|
 ___
 ## Attacks
 |Name|Bonus to Hit|Damage (Average)|Range (Normal/Disadvantage)|
@@ -95,7 +95,7 @@ ___
 |Strength|Athletics||
 |Dexterity|Acrobatics||
 |Dexterity|Sleight of Hand||
-|Dexterity|Stealth||
+|Dexterity|Stealth|Disadvantage|
 |Intelligence|Arcana (Magic)|Expert|
 |Intelligence|History|Yes|
 |Intelligence|Investigation|Yes|
