@@ -90,26 +90,27 @@ At 2nd level, you can expend a use of your Channel Divinity to fuel your spells.
 Starting at 2nd level, you can use your Channel Divinity to tap into a divine well of knowledge. As an action, you choose one skill or tool. For 10 minutes, you have proficiency with the chosen skill or tool.
 ___
 ## Skills
-|Stat|Skill|Trained|
-|:--|:--|--|
-|Strength|Athletics||
-|Dexterity|Acrobatics||
-|Dexterity|Sleight of Hand||
-|Dexterity|Stealth|Disadvantage|
-|Intelligence|Arcana (Magic)|Expert|
-|Intelligence|History|Yes|
-|Intelligence|Investigation|Yes|
-|Intelligence|Nature||
-|Intelligence|Religion|Expert|
-|Wisdom|Animal Handling||
-|Wisdom|Insight|Yes|
-|Wisdom|Medicine|Yes|
-|Wisdom|Perception|Yes|
-|Wisdom|Survival||
-|Charisma|Deception||
-|Charisma|Intimidation||
-|Charisma|Performance||
-|Charisma|Persuasion|Yes|
+Proficiency Bonus: +3
+|Stat|Skill|Trained|Bonus|
+|:--|:--|--|--:|
+|Strength|Athletics||-1|
+|Dexterity|Acrobatics||+2|
+|Dexterity|Sleight of Hand||+2|
+|Dexterity|Stealth|Disadvantage|+2|
+|Intelligence|Arcana (Magic)|Expert|+8|
+|Intelligence|History|Yes|+5|
+|Intelligence|Investigation|Yes|+5|
+|Intelligence|Nature||+2|
+|Intelligence|Religion|Expert|+8|
+|Wisdom|Animal Handling||+3|
+|Wisdom|Insight|Yes|+6|
+|Wisdom|Medicine|Yes|+6|
+|Wisdom|Perception|Yes|+6|
+|Wisdom|Survival||+3|
+|Charisma|Deception||-1|
+|Charisma|Intimidation||-1|
+|Charisma|Performance||-1|
+|Charisma|Persuasion|Yes|+2|
 ___
 ## Feats
 ### War Caster
