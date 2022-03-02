@@ -120,6 +120,10 @@ Proficiency Bonus: +3
 |Charisma|Intimidation||-2|
 |Charisma|Performance|Yes|+1|
 |Charisma|Persuasion||-2|
+
+### Tools
+1) Disguise kit
+2) Thieves' tools
 ___
 ## Feats
 ### War Caster
