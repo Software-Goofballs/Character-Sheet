@@ -102,7 +102,7 @@ Proficiency Bonus: +3
 |Stat|Skill|Trained|Bonus|
 |:--|:--|--|--:|
 |Strength|Athletics||-2|
-|Dexterity|Acrobatics|Advantage in [Bladesong](#bladesong-3x)|+6|
+|Dexterity|Acrobatics|Advantage in [Bladesong](#bladesong-3x)|+3|
 |Dexterity|Sleight of Hand|Yes|+6|
 |Dexterity|Stealth|Yes|+6|
 |Intelligence|Arcana (Magic)|Yes|+6|
