@@ -36,14 +36,14 @@ Prepare (3+7)  spells
 - [Green-Flame Blade](https://5e.tools/spells.html#green-flame%20blade_tce)
 
 ### 1st level, 4 a day
+- [X] [Shield](https://5e.tools/spells.html#shield_phb)
+- [X] [Silvery Barbs](https://5e.tools/spells.html#silvery%20barbs_scc)
 - [ ] a
-- [ ] a
-- [ ] a
-- [ ] a
-- [ ] a
-- [ ] a
-- [ ] a
-- [ ] a
+- [ ] [Tenser's Floating Disk](https://5e.tools/spells.html#tenser's%20floating%20disk_phb)
+- [ ] [Identify](https://5e.tools/spells.html#identify_phb)
+- [ ] [Find Familiar](https://5e.tools/spells.html#find%20familiar_phb)
+- [ ] [Detect Magic](https://5e.tools/spells.html#detect%20magic_phb)
+- [ ] [Comprehend Languages](https://5e.tools/spells.html#comprehend%20languages_phb)
 
 ### 2nd level, 3 a day
 - [X] [Flaming Sphere](https://5e.tools/spells.html#flaming%20sphere_phb)
