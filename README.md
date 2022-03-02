@@ -56,11 +56,11 @@ Prepare (3+7)  spells
 - [X] [Ashardalon's Stride](https://5e.tools/spells.html#ashardalon's%20stride_ftd)
 - [ ] [Thunder Step](https://5e.tools/spells.html#thunder%20step_xge)
 - [ ] [Slow](https://5e.tools/spells.html#slow_phb)
-- [ ] a
+- [X] [Counterspell](https://5e.tools/spells.html#counterspell_phb)
 
 ### 4th level, 1 a day
-- [ ] a
-- [ ] a 
+- [X] [Raulothim's Psychic Lance](https://5e.tools/spells.html#raulothim's%20psychic%20lance_ftd)
+- [X] [Banishment](https://5e.tools/spells.html#banishment_phb)
 
 ___
 ## Special Abilities
