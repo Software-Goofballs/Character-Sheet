@@ -39,6 +39,7 @@ Prepare (3+7)  spells
 - [X] [Shield](https://5e.tools/spells.html#shield_phb)
 - [X] [Silvery Barbs](https://5e.tools/spells.html#silvery%20barbs_scc)
 - [ ] a
+#### Ritual
 - [ ] [Tenser's Floating Disk](https://5e.tools/spells.html#tenser's%20floating%20disk_phb)
 - [ ] [Identify](https://5e.tools/spells.html#identify_phb)
 - [ ] [Find Familiar](https://5e.tools/spells.html#find%20familiar_phb)
