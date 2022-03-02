@@ -27,6 +27,7 @@ ___
 |To Hit|DC|
 |--|--|
 |+6|14|
+
 Prepare (3+7)  spells
 ### Cantrips, Unlimited
 - [Booming Blade](https://5e.tools/spells.html#booming%20blade_tce)
