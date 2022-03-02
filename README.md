@@ -38,7 +38,7 @@ Prepare (3+7)  spells
 ### 1st level, 4 a day
 - [X] [Shield](https://5e.tools/spells.html#shield_phb)
 - [X] [Silvery Barbs](https://5e.tools/spells.html#silvery%20barbs_scc)
-- [ ] a
+- [ ] [Fog Cloud](https://5e.tools/spells.html#fog%20cloud_phb)
 #### Ritual
 - [ ] [Tenser's Floating Disk](https://5e.tools/spells.html#tenser's%20floating%20disk_phb)
 - [ ] [Identify](https://5e.tools/spells.html#identify_phb)
