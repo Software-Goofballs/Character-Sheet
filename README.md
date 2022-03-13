@@ -49,7 +49,7 @@ Prepare (3+7)  spells
 ### 2nd level, 3 a day
 - [X] [Flaming Sphere](https://5e.tools/spells.html#flaming%20sphere_phb)
 - [X] [Shadow Blade](https://5e.tools/spells.html#shadow%20blade_xge)
-- [ ] [Tasha's Mind Whip](https://5e.tools/spells.html#tasha's%20mind%20whip_tce)
+- [X] [Tasha's Mind Whip](https://5e.tools/spells.html#tasha's%20mind%20whip_tce)
 - [ ] [Kinetic Jaunt](https://5e.tools/spells.html#kinetic%20jaunt_scc)
 
 ### 3rd level, 3 a day
