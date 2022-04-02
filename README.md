@@ -54,7 +54,7 @@ Prepare (3+7)  spells
 
 ### 3rd level, 3 a day
 - [X] [Ashardalon's Stride](https://5e.tools/spells.html#ashardalon's%20stride_ftd)
-- [ ] [Thunder Step](https://5e.tools/spells.html#thunder%20step_xge)
+- [X] [Thunder Step](https://5e.tools/spells.html#thunder%20step_xge)
 - [ ] [Slow](https://5e.tools/spells.html#slow_phb)
 - [X] [Counterspell](https://5e.tools/spells.html#counterspell_phb)
 
