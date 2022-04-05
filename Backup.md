@@ -124,24 +124,24 @@ Proficiency Bonus: +3
 
 |Stat|Skill|Trained|Bonus|
 |:--|:--|--|--:|
-|Strength|Athletics|||
-|Dexterity|Acrobatics|||
-|Dexterity|Sleight of Hand|||
-|Dexterity|Stealth|||
-|Intelligence|Arcana (Magic)|||
-|Intelligence|History|||
-|Intelligence|Investigation|||
-|Intelligence|Nature|||
-|Intelligence|Religion|||
-|Wisdom|Animal Handling|||
-|Wisdom|Insight|Yes||
-|Wisdom|Medicine|||
-|Wisdom|Perception|Yes||
-|Wisdom|Survival|||
-|Charisma|Deception|Yes||
-|Charisma|Intimidation|Yes||
-|Charisma|Performance|||
-|Charisma|Persuasion|Yes||
+|Strength|Athletics||-1|
+|Dexterity|Acrobatics||-1|
+|Dexterity|Sleight of Hand||-1|
+|Dexterity|Stealth||-1|
+|Intelligence|Arcana (Magic)||+1|
+|Intelligence|History||+1|
+|Intelligence|Investigation||+1|
+|Intelligence|Nature||+1|
+|Intelligence|Religion||+1|
+|Wisdom|Animal Handling||+2|
+|Wisdom|Insight|Yes|+5|
+|Wisdom|Medicine||+2|
+|Wisdom|Perception|Yes|+5|
+|Wisdom|Survival||+2|
+|Charisma|Deception|Yes|+6|
+|Charisma|Intimidation|Yes|+6|
+|Charisma|Performance||+3|
+|Charisma|Persuasion|Yes|+6|
 ___
 ## Languages
 1) Common
