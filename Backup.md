@@ -33,25 +33,32 @@ ___
 
 ### 1st level, 4 a day
 - [Silvery Barbs](https://5e.tools/spells.html#silvery%20barbs_scc)
+- [Cause Fear](https://5e.tools/spells.html#cause%20fear_xge)
 #### Ritual
 - [Detect Magic](https://5e.tools/spells.html#detect%20magic_phb)
 
 ### 2nd level, 3 a day
 - [Tasha's Mind Whip](https://5e.tools/spells.html#tasha's%20mind%20whip_tce)
 - [Vortex Warp](https://5e.tools/spells.html#vortex%20warp_scc)
+- [Darkness](https://5e.tools/spells.html#darkness_phb)
+- [Blindness/Deafness](https://5e.tools/spells.html#blindness%2fdeafness_phb)
 
 ### 3rd level, 3 a day
 - [Counterspell](https://5e.tools/spells.html#counterspell_phb)
 - [Fireball](https://5e.tools/spells.html#fireball_phb)
+#### Ritual
+- [Phantom Steed](https://5e.tools/spells.html#phantom%20steed_phb)
 
 ### 4th level, 1 a day
 - [Raulothim's Psychic Lance](https://5e.tools/spells.html#raulothim's%20psychic%20lance_ftd)
 - [Vitriolic Sphere](https://5e.tools/spells.html#vitriolic%20sphere_xge)
+- [Dimension Door](https://5e.tools/spells.html#dimension%20door_phb)
 
 ___
 ## Special Abilities
 ### Necrotic Resistance
 You have resistance to necrotic damage.
+
 ### Eyes of the Dark
 From 1st level, you have darkvision with a range of 120 feet.
 
@@ -75,8 +82,10 @@ The hound appears in an unoccupied space of your choice within 30 feet of the ta
 As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 Start at 3rd level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent.
+
 ### Fey Ancestry
 You have advantage on saving throws you make to avoid or end the charmed condition on yourself.
+
 ### Trance
 You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
