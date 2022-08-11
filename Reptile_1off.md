@@ -1,4 +1,4 @@
-# XXXXXXXXXXXX
+# Blaine the Butcher
 [Harengon]([https://5e.tools/races.html#shadar-kai_mpmm](https://5e.tools/races.html#harengon_mpmm)) 
 [Smuggler](https://5e.tools/backgrounds.html#smuggler_gos)
 ___
