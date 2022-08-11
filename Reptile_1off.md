@@ -60,30 +60,31 @@ ___
 ## Skills
 |Stat|Skill|Trained|Bonus|
 |:--|:--|--|--:|
-|Strength|Athletics|Yes||
-|Dexterity|Acrobatics|||
-|Dexterity|Sleight of Hand|Expert||
-|Dexterity|Stealth|Expert||
-|Intelligence|Arcana (Magic)|||
-|Intelligence|History|||
-|Intelligence|Investigation|Expert||
-|Intelligence|Nature|||
-|Intelligence|Religion|||
-|Wisdom|Animal Handling|||
-|Wisdom|Insight|Yes||
-|Wisdom|Medicine|||
-|Wisdom|Perception|Expert||
-|Wisdom|Survival|||
-|Charisma|Deception|Yes||
-|Charisma|Intimidation|||
-|Charisma|Performance|||
-|Charisma|Persuasion|||
+|Strength|Athletics|Yes|+3|
+|Dexterity|Acrobatics||+4|
+|Dexterity|Sleight of Hand|Expert|+10|
+|Dexterity|Stealth|Expert|+10|
+|Intelligence|Arcana (Magic)||0|
+|Intelligence|History||0|
+|Intelligence|Investigation|Expert|+6|
+|Intelligence|Nature||0|
+|Intelligence|Religion||0|
+|Wisdom|Animal Handling||+2|
+|Wisdom|Insight|Yes|+8|
+|Wisdom|Medicine||+2|
+|Wisdom|Perception|Expert|+8|
+|Wisdom|Survival||+2|
+|Charisma|Deception|Yes|+6|
+|Charisma|Intimidation||0|
+|Charisma|Performance||0|
+|Charisma|Persuasion||0|
 
 ### Tools
-1) Disguise kit
-2) Thieves' tools - Expertise
+1) Thieves' tools - Expertise (+10)
+2) Boats
 ___
 ## Feats
+[Skill Expert](https://5e.tools/feats.html#skill%20expert_tce): DEX, Investigation
 ___
 ## Languages
 1) Common
