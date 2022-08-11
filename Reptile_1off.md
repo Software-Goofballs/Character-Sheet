@@ -18,6 +18,7 @@ ___
 |--|--|--|--|
 |Action|+7|1d6+4 Psycic|60ft|
 |Bonus Action|+7|1d4+4 Psycic|60ft|
+
 [Crit on 19 AND 20](https://5e.tools/items.html#butcher's%20bib_egw): Can also reroll 1 damage die when in Melee
 ___
 ## Special Abilities
