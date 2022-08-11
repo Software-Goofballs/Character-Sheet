@@ -2,10 +2,10 @@
 [Harengon]([https://5e.tools/races.html#shadar-kai_mpmm](https://5e.tools/races.html#harengon_mpmm)) 
 [Smuggler](https://5e.tools/backgrounds.html#smuggler_gos)
 ___
-- **Armor Class** 
-- **Hit Points**
+- **Armor Class** 16
+- **Hit Points** 70
 - **Speed** 30ft
-- **Initiative** 3+DEX
+- **Initiative** +7
 ___
 ## Stats
 |STAT|Strength|Dexterity|Constitution|Intelligence|Wisdom|Charisma|
