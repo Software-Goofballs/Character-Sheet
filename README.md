@@ -1,16 +1,16 @@
 # Agustus Peregrine Montebank "The 3rd"
 [Shadar-Kai](https://5e.tools/races.html#shadar-kai_mpmm)
 ___
-- **Armor Class** 
-- **Hit Points** 
+- **Armor Class** 14 (Studded Leather)
+- **Hit Points** 20
 - **Speed** 30
-- **Initiative** 
+- **Initiative** +2
 ___
 ## Stats
 |STAT|Strength|Dexterity|Constitution|Intelligence|Wisdom|Charisma|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-||||||||
-|Saving Throw|||||||
+||8|14|14|12|10|17|
+|Saving Throw|-1|+4|+2|+1|0|+5|
 ___
 ## Attacks
 |Name|Bonus to Hit|Damage (Average)|Range (Normal/Disadvantage)|
@@ -20,7 +20,7 @@ ___
 ## Magic
 |To Hit|DC|
 |--|--|
-|||
+|+5|13|
 
 ### Cantrips, Unlimited
 - [XXXXXX](YYYYYYYYYYYYYYYYYY)
