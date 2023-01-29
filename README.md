@@ -147,5 +147,6 @@ ___
 ## Backstory
 Agustus was always a curious child....
 
-I MUST know the truth! That is my driving goal.
-And that truth must be documented and shared. 
+He is functionally an investigative journalist.
+Truth drives him more than anything else. And the truth must be shared. 
+However, he does not do well with a "observe but do not interfere" mindset, so when he uncovers evil he works with XXXXXXXXXXXXX to root it out and tell the tale. 
