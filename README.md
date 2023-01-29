@@ -1,6 +1,6 @@
 # Agustus Peregrine Irving 
 [Pallid Elf](https://5e.tools/races.html#elf%20(pallid)_egw)
-![](F3576CFF-F764-4B7D-B933-0149FC2D92A0.jpeg)
+![](Agustus.png)
 ___
 - **Armor Class** 14 (Studded Leather)
 - **Hit Points** 20
