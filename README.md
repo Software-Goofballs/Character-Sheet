@@ -146,8 +146,21 @@ ___
 1) Elvish
 ___
 ## Backstory
-Agustus was always a curious child....
-
 He is functionally an investigative journalist.
 Truth drives him more than anything else. And the truth must be shared. 
 However, he does not do well with a "observe but do not interfere" mindset, so when he uncovers evil he works with XXXXXXXXXXXXX to root it out and tell the tale. 
+
+### Ideals
+The truth must be uncovered and shared so that we are not doomed to repeat the failures of history. 
+
+### Bonds
+I cannot remain passive as history passes me by, and I must be remembered by it accurately and positively. 
+
+### Flaws
+I don’t know where to draw the line in my search for the truth, I often dig into the wrong things or go too far and don’t leave well enough alone. 
+
+### Religion
+I am a follower of Ioun, the Goddess of Knowledge. My religion is private to me, but I do visit her temples and offer up copies of my writings for her celestial library as a form of worship. Accordingly, my notes/manuscript are HIGHLY personal and valuable to me. 
+
+### Origin Story
+I grew up with parents who emphasized reading and knowledge. They always encouraged me to be curious of the world around me. As a child, my creative storytelling grated against my parents more scholarly and data-driven natures. When the town was destroyed, I was off daydreaming in the woods. Losing my parents stripped away my childish dreams, and instilled into me a need for the truth of what caused their deaths. I have not uncovered that yet, which haunts me, but in the meantime I keep myself grounded by uncovering hidden truths wherever I go. 
