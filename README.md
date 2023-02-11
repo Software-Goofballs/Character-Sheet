@@ -148,7 +148,7 @@ ___
 ## Backstory
 He is functionally an investigative journalist.
 Truth drives him more than anything else. And the truth must be shared. 
-However, he does not do well with a "observe but do not interfere" mindset, so when he uncovers evil he works with XXXXXXXXXXXXX to root it out and tell the tale. 
+However, he does not do well with a "observe but do not interfere" mindset, so when he uncovers evil he works with Quarion to root it out and tell the tale. 
 
 ### Ideals
 The truth must be uncovered and shared so that we are not doomed to repeat the failures of history. 
