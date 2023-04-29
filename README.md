@@ -168,3 +168,12 @@ I have an inert Ioun stone that is a family family heirloom that I have found I 
 
 ### Origin Story
 I grew up with parents who emphasized reading and knowledge. They always encouraged me to be curious of the world around me. As a child, my creative storytelling grated against my parents more scholarly and data-driven natures. When the town was destroyed, I was off daydreaming in the woods. Losing my parents stripped away my childish dreams, and instilled into me a need for the truth of what caused their deaths. I have not uncovered that yet, which haunts me, but in the meantime I keep myself grounded by uncovering hidden truths wherever I go. 
+
+
+### Traits
+1) Something your character enjoys spending their free time on
+    - Secret notebook of poetry, it has no “value” but he loves it 
+2) Something your character fears
+    - feeling trapped/claustrophobic. He has to be able to wander and learn 
+3) Something they're currently bad at, but want to improve on
+    - Learning to illustrate and draw
